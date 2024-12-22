@@ -1,0 +1,2 @@
+# Vision-par-ordinateur-SII  OpenCV-Basic-Functions-and-Processing
+ This repository contains a series of practical exercises (TPs) focused on fundamental image processing and computer vision techniques using OpenCV. The tasks cover various aspects such as image manipulation, filtering, thresholding, color processing, and video handling. The goal is to provide hands-on experience with essential image processing methods that are foundational for more advanced computer vision projects.
